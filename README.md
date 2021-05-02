@@ -1,2 +1,2 @@
-# ping
-multithreading ddos software
+# ping v1
+> multithreading ddos software
