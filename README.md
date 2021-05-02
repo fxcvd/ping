@@ -1,7 +1,8 @@
 # ping
 *multithreading ddos software*
 
-> Use this only for test u website\n
+> Use this only for test u website
+> 
 > ddos attacks are prohibited by law !!!
 
 ---
